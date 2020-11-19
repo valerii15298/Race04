@@ -1,2 +1,4 @@
 # Race04
-# race04
+
+## Example usage:
+<code>./race04 maze.csv</code>
